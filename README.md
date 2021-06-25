@@ -1,0 +1,2 @@
+# projectMainTec
+for githubpage usage
